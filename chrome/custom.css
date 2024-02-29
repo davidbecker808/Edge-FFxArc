@@ -1,0 +1,6 @@
+/* === My added CSS === */
+
+#sidebar-box #sidebar-header { display: none !important; }
+#main-window:not([chromehidden~="toolbar"]) { --uc-tweak-rounded-corners-padding: 8px; }
+
+/* === Add your own css === */
