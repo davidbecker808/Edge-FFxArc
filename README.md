@@ -1,4 +1,4 @@
-# Edge-Frfox with Sideberry
+# Edge-Frfox with Sidebery
 A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge mixed with Arc.
 
 BASED ON [EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) and [Edge-Frfox](https://github.com/bmFtZQ/edge-frfox)
@@ -17,10 +17,10 @@ Screenshot: Windows / Firefox 123 / Tweaks: rounded corners, Hide Tabs Toolbar, 
    - `uc.tweak.rounded-corners` to `true`
    - see optional tweaks under [Tweaks](#tweaks).
 5. Install recommended addons: [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)
-6. Open the Sideberry Settings
+6. Open the Sidebery Settings
 7. Import `sidebery-settings.json` and `sidebery-styles.json` into Sidebery
-- (`Sideberry Settings` > `Help` > `Import Addon Data`)
-- (If you have your own settings [here](#My-Sideberry-Settings) are the settings I changed)
+- (`Sidebery Settings` > `Help` > `Import Addon Data`)
+- (If you have your own settings [here](#My-Sidebery-Settings) are the settings I changed)
 6. Close and restart Firefox, if performed correctly, the theme should now be installed.
 7. Optionally, listed below are some additional Firefox settings that can be changed using `about:config`:
 
@@ -177,7 +177,7 @@ Edge. This hides the permissions indicator label and makes the icons smaller.
 
 ---
 
-## My-Sideberry-Settings
+## My-Sidebery-Settings
 
 `Navbar`
 - `Layout` -> `Hidden`
