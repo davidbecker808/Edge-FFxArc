@@ -180,8 +180,10 @@ Edge. This hides the permissions indicator label and makes the icons smaller.
 ## My-Sideberry-Settings
 
 `Navbar`
--> `Layout` -> `Hidden`
--> `History sub panel` -> `Off`
--> `Bookmarks sub panel` -> `Off`
--> `Recently closed sub panel` -> `Off`
-`Tabs` -> `Position` -> `Bottom`
+- `Layout` -> `Hidden`
+- `History sub panel` -> `Off`
+- `Bookmarks sub panel` -> `Off`
+- `Recently closed sub panel` -> `Off`
+
+`Tabs`
+- `Position` -> `Bottom`
