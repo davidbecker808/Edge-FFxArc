@@ -1,4 +1,4 @@
-# Edge-Frfox with Sidebery
+# Edge-FFxArc with Sidebery
 A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge mixed with Arc.
 
 BASED ON [EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) and [Edge-Frfox](https://github.com/bmFtZQ/edge-frfox)
