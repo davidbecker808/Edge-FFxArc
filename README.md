@@ -1,10 +1,10 @@
 # Edge-Frfox
-A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
+A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge mixed with Arc.
 
 <!-- Use <img> element to set a maximum width. -->
 <img src="screenshots/thumbnail.png" alt="Edge-Frfox theme thumbail screenshot." width="800">
 
-Screenshot: macOS / Firefox 120 / Tweaks: rounded corners, hide forward button.
+Screenshot: Windows / Firefox 123 / Tweaks: rounded corners, Hide Tabs Toolbar, Disable Drag Space
 
 ## How to install
 1. Go to `about:support` and click the "Open Folder/Show in Finder" button for the root directory of your browser profile.
