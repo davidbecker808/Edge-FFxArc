@@ -1,5 +1,7 @@
-# Edge-Frfox
+# Edge-Frfox with Sideberry
 A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge mixed with Arc.
+
+BASED ON [EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) and [Edge-Frfox](https://github.com/bmFtZQ/edge-frfox)
 
 <!-- Use <img> element to set a maximum width. -->
 <img src="screenshots/thumbnail.png" alt="Edge-Frfox theme thumbail screenshot." width="800">
@@ -10,8 +12,15 @@ Screenshot: Windows / Firefox 123 / Tweaks: rounded corners, Hide Tabs Toolbar, 
 1. Go to `about:support` and click the "Open Folder/Show in Finder" button for the root directory of your browser profile.
 2. Download the repository and extract the files.
 3. From the repository folder, copy the `chrome` folder and `user.js` file into your Firefox profile folder.
-4. Close and restart Firefox, if performed correctly, the theme should now be installed.
-5. Optionally, listed below are some additional Firefox settings that can be changed using `about:config`:
+4.  Enable the following settings in `about:config` to enable features in EdgeFrFox
+   - `uc.tweak.hide-tabs-bar` to `true`
+   - `uc.tweak.rounded-corners` to `true`
+   - see optional tweaks under [Tweaks](#tweaks).
+5. Install recommended addons: [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)
+6. Open the Sideberry Settings
+7. Import `sidebery-settings.json` and `sidebery-styles.json` into Sidebery (`Sideberry Settings` > `Help` > `Import Addon Data`)
+6. Close and restart Firefox, if performed correctly, the theme should now be installed.
+7. Optionally, listed below are some additional Firefox settings that can be changed using `about:config`:
 
    | Description                                                                                           | Preference Name                                      | Value   |
    | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------- |
