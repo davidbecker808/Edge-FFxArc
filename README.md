@@ -18,7 +18,9 @@ Screenshot: Windows / Firefox 123 / Tweaks: rounded corners, Hide Tabs Toolbar, 
    - see optional tweaks under [Tweaks](#tweaks).
 5. Install recommended addons: [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)
 6. Open the Sideberry Settings
-7. Import `sidebery-settings.json` and `sidebery-styles.json` into Sidebery (`Sideberry Settings` > `Help` > `Import Addon Data`)
+7. Import `sidebery-settings.json` and `sidebery-styles.json` into Sidebery
+(`Sideberry Settings` > `Help` > `Import Addon Data`)
+(If you have your own settings [here](#My)are the settings I changed)
 6. Close and restart Firefox, if performed correctly, the theme should now be installed.
 7. Optionally, listed below are some additional Firefox settings that can be changed using `about:config`:
 
@@ -175,3 +177,11 @@ Edge. This hides the permissions indicator label and makes the icons smaller.
 
 ---
 
+##My Sideberry Settings
+
+`Navbar`
+-> `Layout` -> `Hidden`
+-> `History sub panel` -> `Off`
+-> `Bookmarks sub panel` -> `Off`
+-> `Recently closed sub panel` -> `Off`
+`Tabs` -> `Position` -> `Bottom`
